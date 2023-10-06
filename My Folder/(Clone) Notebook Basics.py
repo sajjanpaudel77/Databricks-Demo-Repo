@@ -70,7 +70,7 @@ dbutils.help()
 
 # COMMAND ----------
 
-# MAGIC %fs ls 'databricks-datasets/adult/adult.data'
+dbutils.fs.ls('/databricks-datasets')
 
 # COMMAND ----------
 
