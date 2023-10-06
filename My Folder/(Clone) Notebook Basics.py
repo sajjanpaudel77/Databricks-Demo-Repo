@@ -74,4 +74,10 @@ dbutils.fs.ls('/databricks-datasets')
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC SELECT"Today I am feeling curious"
+# MAGIC
+
+# COMMAND ----------
+
 
